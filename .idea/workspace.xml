@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21e153de-e5f1-4966-99e4-e5d0293b11a6" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="341780748">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.57" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="5" />
+          <entry key="js" value="9" />
+          <entry key="json" value="7" />
+          <entry key="py" value="6" />
+          <entry key="vue" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="5" />
+          <entry key="JSON" value="7" />
+          <entry key="JavaScript" value="9" />
+          <entry key="Python" value="6" />
+          <entry key="Vue.js" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="30" />
+          <entry key="js" value="123" />
+          <entry key="json" value="31" />
+          <entry key="md" value="18" />
+          <entry key="py" value="53" />
+          <entry key="vue" value="87" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="30" />
+          <entry key="JSON" value="31" />
+          <entry key="JavaScript" value="123" />
+          <entry key="Markdown" value="18" />
+          <entry key="Python" value="53" />
+          <entry key="Vue.js" value="87" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/src/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/run.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/src/App.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+              <folding>
+                <element signature="n#style#0;n#router-link#0;n#v-toolbar-title#0;n#v-toolbar#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/frontend/src/components/Home.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="343" column="18" selection-start-line="343" selection-start-column="18" selection-end-line="343" selection-end-column="18" />
+              <folding>
+                <element signature="n#v-flex#0;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+                <element signature="n#v-menu#0;n#v-flex#0;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+                <element signature="n#v-flex#1;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+                <element signature="n#v-menu#0;n#v-flex#1;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+                <element signature="n#v-select#1;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+                <element signature="n#v-select#2;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+                <element signature="n#v-select#3;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+                <element signature="n#v-select#5;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+                <element signature="n#v-select#6;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+                <element signature="n#v-text-field#1;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+                <element signature="n#v-select#7;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+                <element signature="n#v-select#8;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+                <element signature="n#v-select#9;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+                <element signature="n#v-select#10;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+                <element signature="n#v-select#11;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+                <element signature="n#v-select#12;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+                <element signature="n#v-select#13;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+                <element signature="n#v-select#14;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+                <element signature="n#v-select#15;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+                <element signature="n#v-select#16;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+                <element signature="n#v-select#17;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+                <element signature="n#v-select#18;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+                <element signature="n#v-text-field#2;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+                <element signature="n#v-text-field#3;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+                <element signature="n#v-select#19;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+                <element signature="n#v-select#20;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+                <element signature="n#v-select#21;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+                <element signature="n#v-text-field#4;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+                <element signature="n#v-text-field#5;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+                <element signature="n#v-text-field#6;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+                <element signature="n#v-text-field#7;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+                <element signature="n#v-text-field#8;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+                <element signature="n#v-select#22;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+                <element signature="n#v-text-field#9;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+                <element signature="e#12468#12718#0" />
+                <element signature="e#12738#14264#0" />
+                <element signature="e#14280#14493#0" />
+                <element signature="e#14508#15015#0" />
+                <element signature="e#15030#15590#0" />
+                <element signature="e#15604#16056#0" />
+                <element signature="e#16070#16122#0" />
+                <element signature="e#16143#167362#0" />
+                <element signature="e#167381#170110#0" />
+                <element signature="e#170132#170402#0" />
+                <element signature="e#170425#170522#0" />
+                <element signature="e#170541#170882#0" />
+                <element signature="e#170900#170961#0" />
+                <element signature="e#170977#171168#0" />
+                <element signature="e#171182#171225#0" />
+                <element signature="e#171239#171313#0" />
+                <element signature="e#171328#171506#0" />
+                <element signature="e#171522#171990#0" />
+                <element signature="e#172007#173071#0" />
+                <element signature="e#173085#173128#0" />
+                <element signature="e#173142#173185#0" />
+                <element signature="e#173200#173414#0" />
+                <element signature="e#173429#173472#0" />
+                <element signature="n#style#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="Vue Single File Component" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>basic-spa</find>
+      <find>bas</find>
+      <find>My Awesome</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\denisse.perez\PycharmProjects\targeting\frontend</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app.py" />
+        <option value="$PROJECT_DIR$/frontend/src/components/home.vue" />
+        <option value="$PROJECT_DIR$/frontend/config/index.js" />
+        <option value="$PROJECT_DIR$/backend/run.py" />
+        <option value="$PROJECT_DIR$/frontend/src/router/App.vue" />
+        <option value="$PROJECT_DIR$/frontend/src/components/About.vue" />
+        <option value="$PROJECT_DIR$/frontend/index.html" />
+        <option value="$PROJECT_DIR$/frontend/src/main.js" />
+        <option value="$PROJECT_DIR$/frontend/package.json" />
+        <option value="$PROJECT_DIR$/frontend/src/App.vue" />
+        <option value="$PROJECT_DIR$/frontend/src/router/index.js" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DRa12312.49232/lguevara-form-538233f0b38f/db.json" />
+        <option value="$PROJECT_DIR$/frontend/src/components/Home.vue" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/frontend/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/frontend/Old/package.json" />
+      <path value="$PROJECT_DIR$/frontend/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="targeting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="targeting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="targeting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="targeting" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="targeting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="targeting" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/frontend" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\denisse.perez\PycharmProjects\targeting\frontend" />
+      <recent name="C:\Users\denisse.perez\PycharmProjects\targeting\frontend\src\router" />
+      <recent name="C:\Users\denisse.perez\PycharmProjects\targeting\frontend\src\assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\denisse.perez\PycharmProjects\targeting\frontend\src" />
+      <recent name="C:\Users\denisse.perez\PycharmProjects\targeting" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="targeting" type="Python.FlaskServer" factoryName="Flask server">
+      <module name="targeting" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21e153de-e5f1-4966-99e4-e5d0293b11a6" name="Default Changelist" comment="" />
+      <created>1537395751464</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537395751464</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="R Packages" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="R Graphics" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/flask/templating.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/components/About.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-586">
+          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="92" selection-start-column="92" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/components/navegg.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/config/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="47" column="39" selection-start-line="47" selection-start-column="39" selection-end-line="47" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+          <folding>
+            <element signature="n#style#0;n#router-link#0;n#v-toolbar-title#0;n#v-toolbar#0;n#v-app#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa12312.39309/lguevara-form-538233f0b38f/src/components/HelloWorld.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="3018" column="24" selection-start-line="3018" selection-start-column="24" selection-end-line="3018" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa12312.49232/lguevara-form-538233f0b38f/db.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa9144.41779/lguevara-form-538233f0b38f/src/components/HelloWorld.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="342" column="30" selection-start-line="342" selection-start-column="30" selection-end-line="342" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/db.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/src/components/Home.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="343" column="18" selection-start-line="343" selection-start-column="18" selection-end-line="343" selection-end-column="18" />
+          <folding>
+            <element signature="n#v-flex#0;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+            <element signature="n#v-menu#0;n#v-flex#0;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+            <element signature="n#v-flex#1;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+            <element signature="n#v-menu#0;n#v-flex#1;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+            <element signature="n#v-select#1;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+            <element signature="n#v-select#2;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+            <element signature="n#v-select#3;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+            <element signature="n#v-select#5;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+            <element signature="n#v-select#6;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+            <element signature="n#v-text-field#1;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+            <element signature="n#v-select#7;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+            <element signature="n#v-select#8;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+            <element signature="n#v-select#9;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+            <element signature="n#v-select#10;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+            <element signature="n#v-select#11;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+            <element signature="n#v-select#12;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+            <element signature="n#v-select#13;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+            <element signature="n#v-select#14;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+            <element signature="n#v-select#15;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+            <element signature="n#v-select#16;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+            <element signature="n#v-select#17;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+            <element signature="n#v-select#18;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+            <element signature="n#v-text-field#2;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+            <element signature="n#v-text-field#3;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+            <element signature="n#v-select#19;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+            <element signature="n#v-select#20;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+            <element signature="n#v-select#21;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+            <element signature="n#v-text-field#4;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+            <element signature="n#v-text-field#5;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+            <element signature="n#v-text-field#6;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+            <element signature="n#v-text-field#7;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+            <element signature="n#v-text-field#8;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+            <element signature="n#v-select#22;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+            <element signature="n#v-text-field#9;n#v-form#0;n#v-flex#0;n#v-card#0;n#v-flex#0;n#v-container#0;n#v-content#0;n#v-card#0;n#template#0;n#!!top" />
+            <element signature="e#12468#12718#0" />
+            <element signature="e#12738#14264#0" />
+            <element signature="e#14280#14493#0" />
+            <element signature="e#14508#15015#0" />
+            <element signature="e#15030#15590#0" />
+            <element signature="e#15604#16056#0" />
+            <element signature="e#16070#16122#0" />
+            <element signature="e#16143#167362#0" />
+            <element signature="e#167381#170110#0" />
+            <element signature="e#170132#170402#0" />
+            <element signature="e#170425#170522#0" />
+            <element signature="e#170541#170882#0" />
+            <element signature="e#170900#170961#0" />
+            <element signature="e#170977#171168#0" />
+            <element signature="e#171182#171225#0" />
+            <element signature="e#171239#171313#0" />
+            <element signature="e#171328#171506#0" />
+            <element signature="e#171522#171990#0" />
+            <element signature="e#172007#173071#0" />
+            <element signature="e#173085#173128#0" />
+            <element signature="e#173142#173185#0" />
+            <element signature="e#173200#173414#0" />
+            <element signature="e#173429#173472#0" />
+            <element signature="n#style#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
